@@ -1,0 +1,501 @@
+Patient ID,Admission Date,Discharge Date,Length of Stay,Department,Diagnosis,Treatment Cost,Insurance Covered,Doctor Name,Gender,Age
+b8b0f529-f0db-4f69-a19e-3531f2c37775,2024-06-06,2024-06-07,1.0,Pediatrics,Cancer,16295.0,7341.0,Natalie Vaughn,Male,11
+cba62bab-bb8a-4829-9ec7-f273bb9087e8,2025-04-13,2025-04-22,9.0,Orthopedics,Hypertension,1360.0,1053.0,Jennifer Summers,Other,77
+451ce3e5-12ce-4c6e-bb70-4e0c452d72de,2024-06-04,2024-06-07,3.0,Oncology,Fracture,5890.0,2639.0,Jerome Hicks,Female,3
+81159b0b-c932-4be0-865e-a37f0f7de3d6,2024-12-06,2024-12-10,4.0,Cardiology,Hypertension,12464.0,7156.0,Robert Smith,Other,33
+2719917a-bc52-48bb-ab69-a32c4855b544,2024-06-21,2024-07-06,15.0,Pediatrics,Fracture,11784.0,11616.0,Zachary Morgan,Other,6
+9c19ed63-496f-4d87-8fcb-8ef15bea18a9,2024-10-05,2024-10-24,19.0,Pediatrics,Hypertension,6765.0,11593.0,Anthony Mcintosh,Other,50
+0aa39795-9a34-428c-862b-3c65e6d3facf,2025-01-10,2025-01-21,11.0,Cardiology,Fracture,17350.0,1642.0,Kimberly Foster,Other,10
+ebe7331a-c113-483b-9325-1abd31fd79ea,2025-05-11,2025-05-31,,Pediatrics,Fracture,4926.0,5393.0,Christopher Espinoza,Other,5
+dbbc7929-e1bf-4ced-81cc-e798026aa5da,2024-07-23,2024-07-31,8.0,Pediatrics,Diabetes,14923.0,14064.0,Robert Holt,Female,23
+fb691ff7-54aa-4fa4-8a34-c52a95e6ae3e,2024-07-23,2024-07-26,3.0,Cardiology,Hypertension,11863.0,1291.0,Deborah Pearson,Male,10
+6fbdb336-e747-47b3-bf9c-a3c3268f0b94,2024-11-25,2024-12-06,11.0,Pediatrics,Cancer,16523.0,6413.0,Amy Sanchez,Male,44
+7b6f9929-ac04-4787-8000-87e991460a55,2024-06-04,2024-06-14,10.0,Neurology,Cancer,8822.0,13804.0,Vincent Robinson,Other,2
+7296682b-7abf-434e-8455-f64edbc5e183,2024-08-25,2024-09-04,10.0,Orthopedics,Migraine,2185.0,11285.0,Amy Acosta,Male,13
+5db96cfc-66c1-4c61-b69b-e6199bc34376,2024-10-24,2024-10-31,7.0,Cardiology,Fracture,1269.0,7038.0,Cindy Colon,Male,40
+51dbc87b-577b-4979-95c1-f12cdc155441,2025-04-17,2025-05-01,14.0,Neurology,Migraine,2933.0,2781.0,Sharon Harrison,Female,2
+aa6be4af-77ef-4198-b940-199252581b45,2024-08-01,2024-08-09,8.0,Oncology,Fracture,5811.0,9509.0,Sandra Michael,Female,84
+4e4dabc8-2a38-4d98-aca9-a94931856c95,2025-01-28,2025-02-06,9.0,Neurology,Migraine,5551.0,1640.0,Adrian Stewart,Male,65
+9d802772-49f1-4c9a-9cd4-039ee440e73e,2024-06-13,2024-06-19,6.0,Oncology,Cancer,6920.0,6272.0,Julie Vance,Other,63
+d6695381-e76c-4431-a282-3cd1d40166f5,2024-08-30,2024-09-18,19.0,Cardiology,Fracture,18068.0,11528.0,Donald Davis,Other,73
+9962ffc6-fc01-495e-9b38-b1da86d0f84b,2024-12-04,2024-12-08,4.0,Oncology,Fracture,6896.0,5641.0,Michael Blanchard,Other,17
+5ab5cc09-c683-4f9e-9279-bf201cc82df1,2024-09-11,2024-09-29,18.0,Neurology,Cancer,9166.0,10678.0,Allison Smith,Male,9
+faf2c628-399e-489c-8508-d3c56ab9424a,2024-08-01,2024-08-06,5.0,Cardiology,Diabetes,19442.0,12011.0,Eugene Moore,Male,75
+3ad16b40-712b-487d-85ba-bcecac63a9e2,2024-08-11,2024-08-28,17.0,Oncology,Fracture,18931.0,13907.0,Rachel Burnett,Other,15
+91d7b298-aeb4-4c09-9704-8454c4176db2,2024-11-01,2024-11-13,12.0,Orthopedics,Cancer,3247.0,9680.0,Marie Hines,Male,24
+a9dcf493-c685-40c9-a8f9-5a79fead07ea,2024-06-19,2024-06-29,10.0,Cardiology,Fracture,689.0,10148.0,James Harvey,Other,38
+6dbf0491-ff0c-4223-89e3-58a6a424c67f,2025-05-01,2025-05-10,9.0,Neurology,Diabetes,19618.0,1465.0,Mark Reynolds,Male,35
+792d9d41-871e-460d-b687-71e4387b66de,2025-01-07,2025-01-15,8.0,Pediatrics,Cancer,3505.0,8791.0,Erika Davidson,Female,49
+b7fe861f-ede1-44dd-8955-6035620d9c15,2025-03-29,2025-04-17,19.0,Oncology,Fracture,2399.0,9972.0,Todd Sanders,Male,69
+5359ee98-621b-451c-bb5f-8571950dcca3,2024-11-03,2024-11-22,19.0,Pediatrics,Hypertension,1767.0,8802.0,Phillip Payne,Female,62
+542c1371-9022-44cf-b821-3da69be9e394,2024-08-25,2024-09-07,13.0,Cardiology,Hypertension,18412.0,7594.0,Jonathan Reed,Male,60
+a9eda64c-c29c-4b52-a4cf-bfd01caa00b5,2025-04-06,2025-04-14,8.0,Pediatrics,Migraine,11894.0,4412.0,,Female,50
+cb02aa73-982c-439b-afdc-b30ccf242d08,2024-12-05,2024-12-22,17.0,Oncology,Cancer,4056.0,1424.0,Megan Barajas,Other,78
+37d0d779-8484-45a4-9ec0-77f6de579c69,2024-09-08,2024-09-26,18.0,Orthopedics,Hypertension,,9447.0,Tonya Dunn,Female,75
+d346aa1b-d5c1-4000-a3dd-3d128b8f3431,2024-06-23,2024-07-07,14.0,Pediatrics,Migraine,9338.0,10119.0,Roy Peterson,Female,9
+dce20a83-674b-42f9-aab8-ee5f746ee490,2024-10-10,2024-10-13,3.0,Oncology,Migraine,15002.0,3241.0,,Female,34
+aeaf352c-0de4-46e2-abb2-6ff507a9f01e,2024-10-06,2024-10-12,6.0,Cardiology,Diabetes,11127.0,7519.0,Nancy Arnold,Female,76
+ebafff5f-1e38-4f20-89f5-7c4563509f0e,2024-10-01,2024-10-18,17.0,Pediatrics,Diabetes,9292.0,3586.0,Jessica Daniel,Female,35
+b093a8b7-41b0-4c09-b8fc-b903ae70e9b2,2024-11-07,2024-11-20,13.0,Oncology,Hypertension,11055.0,1910.0,William Anderson,Female,1
+bb71c483-3d69-4aa6-8681-4c5f38f8e2f1,2024-12-04,2024-12-10,6.0,Orthopedics,Fracture,10753.0,6688.0,Jessica Anderson,Other,40
+73322338-9a01-44a9-9b9d-350f9a9369a6,2025-01-04,2025-01-15,11.0,Oncology,Migraine,8933.0,3023.0,Ashley Harris,Female,64
+c02a4763-43f6-4be0-a929-eb66c2727882,2024-07-05,2024-07-23,18.0,Pediatrics,Fracture,10733.0,5401.0,Michael Huffman,Female,22
+640ff3b1-9616-4974-901d-75c99010bac9,2025-02-01,2025-02-18,17.0,Cardiology,Cancer,11516.0,10506.0,Shawn Mendez,Other,60
+f8c13a41-ec30-499e-90bf-2e8d23f1e5cf,2024-09-06,2024-09-25,19.0,Cardiology,Fracture,3112.0,4286.0,Michael Morris,Female,64
+43cf40d3-a790-413a-8a06-72c481b4da23,2025-03-27,2025-04-05,9.0,Cardiology,Cancer,16287.0,9005.0,Michael Mccoy,Male,72
+d2b0f984-b0e1-4c8a-b9b9-5f8449aa7f85,2024-07-30,2024-08-17,18.0,Pediatrics,Migraine,17659.0,6077.0,Samuel Mendez,Other,11
+e5982247-e652-4bd8-83aa-e8884a5f35b4,2024-07-12,2024-07-15,3.0,Orthopedics,Diabetes,12706.0,11894.0,Christopher Michael,Female,14
+091d7f25-de36-4ad2-a648-4df50ca7ffbc,2024-07-08,2024-07-24,16.0,Pediatrics,Migraine,8726.0,12426.0,Debra Brewer,Female,60
+8da85746-1a2b-4100-95fe-d1b91de72585,2024-10-23,2024-10-27,4.0,Oncology,Fracture,15041.0,11814.0,James Chandler,Other,30
+f1a7d91e-c450-44fa-a830-5b85b9572e0b,2024-10-18,2024-11-02,,Pediatrics,Hypertension,3652.0,4368.0,Patricia Phillips MD,Female,35
+461d7efe-7445-474b-9b6d-98c08e06c04a,2025-05-12,2025-05-13,1.0,Oncology,Fracture,2085.0,4848.0,Richard Roman,Other,85
+90c12ee0-ffcb-4c9c-a19a-7ab3b4f826af,2024-06-21,2024-07-06,15.0,Oncology,Cancer,4443.0,4949.0,Jason Morales,Female,37
+43a3f6e0-6419-4216-895c-d1925fa74f00,2025-05-07,2025-05-18,11.0,Orthopedics,Cancer,19957.0,9535.0,Suzanne Wang,Other,5
+449e3302-bb2e-4618-8629-5daf76fc4cdf,2024-10-22,2024-11-10,19.0,Orthopedics,Migraine,1521.0,3809.0,Elizabeth Robinson,Male,83
+d38ff81f-2a92-44f3-879c-8dcf1968b35f,2024-09-13,2024-09-15,2.0,Orthopedics,Diabetes,12153.0,9373.0,Randy Rice,Other,78
+30624ddd-2401-4647-ad36-02847cba412f,2024-10-06,2024-10-20,14.0,Oncology,Migraine,11305.0,14071.0,Kurt Chan,Other,26
+fb5f5454-fd36-4484-aead-99b132bc60e4,2025-01-31,2025-02-08,8.0,Cardiology,Cancer,13917.0,6719.0,Mark Abbott,Other,62
+ad182b39-e068-4539-a08f-e6ea9b9ebcb4,2024-09-16,2024-09-28,12.0,Neurology,Migraine,8489.0,8747.0,Kevin Rivera,Female,4
+d33972e2-c191-465a-a6b4-b4b6fccef8b4,2025-02-01,2025-02-03,2.0,Oncology,Diabetes,10192.0,13216.0,Elizabeth Lloyd,Male,89
+3f0eaf44-b7ed-4e0f-bf82-a92a5d2589ac,2024-06-03,2024-06-23,20.0,Neurology,Cancer,13490.0,9186.0,,Female,42
+c879b458-9a6b-49de-ba51-374d36f3e3ad,2024-08-07,2024-08-10,3.0,Pediatrics,Diabetes,7373.0,9676.0,Edgar Burke,Other,89
+4bafc2b7-4253-477a-bc08-1f673e06efe4,2025-04-20,2025-05-05,15.0,Pediatrics,Fracture,6175.0,10250.0,Laura Nguyen,Female,18
+b66ceacc-f47f-4273-b8c3-95c198c23430,2024-08-08,2024-08-20,12.0,Cardiology,Migraine,661.0,3172.0,Kelsey Pacheco,Other,40
+0ed0e806-8ceb-40c8-aee5-d70cdc4f784b,2025-05-07,2025-05-09,2.0,Orthopedics,Fracture,4797.0,6630.0,Nathan Baker,Female,72
+73ede2db-186b-4938-9d08-9f92c32c09b7,2025-04-05,2025-04-08,3.0,Neurology,Hypertension,1495.0,10288.0,Hannah Richardson,Female,39
+1e090409-9669-4ce7-a106-40cc0fed722b,2024-11-21,2024-11-29,8.0,Oncology,Fracture,12034.0,14783.0,Daniel Franklin,Male,14
+1494016d-4d15-4563-86c8-5c1bd64e8dbd,2025-04-04,2025-04-22,18.0,Cardiology,Hypertension,8129.0,12577.0,Steven Kirk,Male,32
+f34bccb6-1970-4fe9-9b19-491072435815,2025-01-14,2025-01-31,17.0,Oncology,Diabetes,1516.0,604.0,Jason Leonard,Male,51
+bbfbc645-f389-4b3e-8a93-5f8d182ab502,2024-09-11,2024-10-01,20.0,Neurology,Hypertension,9029.0,1314.0,Megan Martinez,Female,38
+ef0c0537-9003-411b-b3ee-8b2251dc1211,2025-05-12,2025-05-17,5.0,Neurology,Cancer,17762.0,1631.0,James Hill,Other,23
+b28c405e-3ac1-496d-b752-c4a9e0e83c75,2024-10-06,2024-10-18,12.0,Orthopedics,Fracture,9768.0,11732.0,Richard Wallace,Male,63
+63b2866c-df2f-4a95-9697-d73ccaa5dd51,2024-12-28,2025-01-09,12.0,Oncology,Diabetes,12685.0,7676.0,John Allen,Other,15
+35e7c189-3960-45a9-b8dc-7d52c125604f,2024-08-09,2024-08-19,10.0,Pediatrics,Fracture,6831.0,923.0,Michael Taylor,Other,25
+430c4771-95b9-4657-90c8-f9e93ca05397,2024-10-04,2024-10-19,15.0,Oncology,Hypertension,9071.0,1028.0,Christopher Michael,Female,17
+e18b5acf-d81f-465e-911b-bac9fdf7a3b2,2024-11-06,2024-11-20,14.0,Neurology,Cancer,7708.0,5129.0,Nicholas Lindsey,Other,66
+c5afc4c7-1795-43a7-bc14-bf6bf5529a6e,2024-06-10,2024-06-24,14.0,Oncology,Cancer,5776.0,13528.0,,Other,78
+9071f186-3ba1-479c-94a9-107a3e55f66b,2025-05-04,2025-05-15,11.0,Oncology,Diabetes,18946.0,233.0,Kristin Lee,Female,53
+b4c06bab-7873-46ba-bb2d-2200fdea15e6,2024-09-07,2024-09-15,8.0,Cardiology,Diabetes,16948.0,2205.0,James Bradford,Male,51
+b4ffbaf2-4bbb-4a17-9cb1-7b8ecede7458,2024-07-17,2024-08-04,18.0,Neurology,Cancer,16716.0,3727.0,Diamond Johnson,Other,39
+a1f18a17-e84a-43e5-b707-66b10fe0c414,2024-07-19,2024-08-05,17.0,Orthopedics,Migraine,8506.0,13072.0,Rebecca Kirby,Other,51
+be8e849a-384f-4220-9c16-284622975fba,2024-07-27,2024-08-14,18.0,Pediatrics,Hypertension,3068.0,6416.0,Jose Lopez,Female,70
+ad757008-7d80-4d00-baf9-91db8cc5244d,2024-07-20,2024-08-03,,Pediatrics,Fracture,2527.0,1952.0,David Francis,Female,6
+de0fa58f-8809-49b0-9950-139e7b449c01,2024-07-05,2024-07-21,16.0,Cardiology,Hypertension,3195.0,5010.0,Jasmine Livingston,Female,67
+3590ae39-95c0-4dbf-b548-2096f6ffbbcb,2024-12-04,2024-12-07,3.0,Neurology,Cancer,15922.0,13560.0,Andrew Nguyen,Male,7
+a3e2471b-96d9-4e29-95a8-4311b89d0570,2025-03-05,2025-03-12,7.0,Oncology,Cancer,5758.0,4275.0,Cindy Mercado,Other,51
+a9856080-bcd8-4a3c-86fc-14fdf6c78e3a,2024-11-22,2024-12-06,14.0,Pediatrics,Migraine,7236.0,11225.0,,Female,72
+0a01adc4-b72e-41c4-b70a-b8959c565cff,2024-11-28,2024-12-11,13.0,Orthopedics,Cancer,891.0,11576.0,Tony Johnson,Other,42
+2fe71715-2c70-4b4f-b565-ca280812a241,2024-12-01,2024-12-13,12.0,Oncology,Cancer,14486.0,12590.0,Martin Ferguson,Male,64
+e46bb80d-ffc1-4941-894a-4e71d271b7f8,2024-06-12,2024-06-29,17.0,Orthopedics,Cancer,13166.0,11103.0,Mitchell Boone,Other,15
+49a5400b-9c80-4c65-9368-b632f3e36217,2024-12-19,2025-01-07,19.0,Pediatrics,Hypertension,6392.0,5448.0,Candace Wilson,Male,29
+393000df-6505-428a-9cda-b2de5dbb1e7a,2025-03-31,2025-04-17,17.0,Pediatrics,Cancer,4061.0,14087.0,Lawrence Ramos,Other,33
+bd4f8dc0-183a-4bbe-8d76-5fa35dc81057,2024-10-15,2024-10-26,11.0,Orthopedics,Diabetes,6684.0,9542.0,Meredith Johnson,Male,27
+c4bc6e3c-dbca-4c06-830c-fc64aa758708,2024-08-22,2024-09-04,13.0,Oncology,Hypertension,19983.0,14070.0,Jorge Wang,Other,36
+5349f5b9-ef57-4c92-839b-bbd778543133,2025-01-21,2025-01-28,7.0,Orthopedics,Cancer,8892.0,13943.0,Edward Paul,Other,29
+9c0ecd06-8271-4fa5-894f-ee9c5a470dc4,2024-11-14,2024-11-21,7.0,Cardiology,Fracture,13567.0,11804.0,Janet Browning,Male,38
+dd89d755-e129-4809-8ad4-c61976af67d1,2024-11-08,2024-11-22,14.0,Orthopedics,Fracture,15765.0,6290.0,Stacy Moon,Male,57
+3de078ca-eae9-4233-b4e4-40d01dfe63fe,2024-09-09,2024-09-29,20.0,Neurology,Migraine,19988.0,1356.0,Melissa Johnson,Other,27
+9f32fa04-8175-47fd-9bbb-f7cb49d73b3a,2024-06-29,2024-07-14,15.0,Cardiology,Hypertension,2954.0,3476.0,Rachel Clark,Other,55
+9d10e2bc-c6a5-412f-9b74-b60e9f3ac093,2024-11-26,2024-12-02,6.0,Neurology,Cancer,12337.0,5745.0,Monique Harris,Male,33
+d76fcfc8-eac4-4e5f-bc8c-074f1630a926,2025-01-19,2025-01-24,5.0,Oncology,Migraine,14539.0,13554.0,Nicole Smith,Male,68
+6274e556-7664-41c9-b8c3-df70c7ad9a65,2024-08-24,2024-08-28,4.0,Neurology,Hypertension,19615.0,3586.0,Breanna Burgess,Other,86
+dc57e88d-420d-43ac-b67d-ce5837c87677,2025-01-16,2025-01-31,15.0,Oncology,Fracture,11465.0,3684.0,Miss Tara Elliott MD,Male,66
+dc196bb0-6fd4-472e-9ac1-c27717a7cb83,2024-06-29,2024-07-04,5.0,Pediatrics,Fracture,10262.0,9688.0,James Allen,Female,10
+2f7fa37e-e5b6-4198-a943-7d0a292f68ad,2024-05-26,2024-06-15,20.0,Neurology,Migraine,5556.0,11929.0,Natalie Fisher,Other,5
+0f3229e5-83de-40be-b2ac-471f9b972a72,2025-04-22,2025-05-12,20.0,Neurology,Cancer,15448.0,8153.0,Barbara Walker,Other,74
+a437841a-a399-4381-a0fe-657cfae2082e,2024-06-12,2024-06-24,12.0,Oncology,Diabetes,8610.0,3430.0,Richard Burns,Other,38
+c685fa58-3642-4f66-8446-cd5cc82348fc,2025-02-09,2025-02-28,19.0,Cardiology,Hypertension,14273.0,2803.0,Cynthia Hamilton,Other,13
+d6270485-bfcb-4481-8562-50a9ab75f4b7,2024-11-29,2024-12-16,17.0,Cardiology,Diabetes,17912.0,8762.0,Steven Brown,Female,31
+165d986a-198f-4518-a799-e88636abdca1,2024-08-24,2024-08-27,3.0,Orthopedics,Cancer,1002.0,8220.0,Catherine Gonzalez,Other,47
+44ba3d9d-fdd9-4f00-913a-f5a7d5c70e9b,2024-12-28,2025-01-09,12.0,Cardiology,Diabetes,7410.0,7214.0,Jennifer Spencer,Male,88
+47f4f5cf-582a-4860-ab17-0ae0ba86bf05,2025-05-07,2025-05-08,1.0,Cardiology,Cancer,13185.0,13423.0,Catherine Martinez,Other,52
+14d14fc9-dc4d-436c-a45e-cf710f11f870,2024-07-01,2024-07-14,13.0,Neurology,Cancer,706.0,1453.0,Deanna Adams,Other,56
+436eb350-d9db-45ae-9c50-04e991f17044,2024-10-18,2024-10-27,9.0,Neurology,Cancer,18368.0,11075.0,Pamela Middleton,Male,15
+baaf55e2-d812-4381-ace1-6c2a7035e102,2024-06-26,2024-07-16,20.0,Neurology,Cancer,16434.0,11123.0,Kevin Coleman,Male,29
+315f0061-3ad5-422b-a88b-4ff0c06124ff,2024-09-11,2024-10-01,20.0,Oncology,Migraine,17747.0,5163.0,Roy Pearson,Male,8
+25cf0ecb-3b01-4887-b170-fcaeb60efff2,2024-10-03,2024-10-09,6.0,Oncology,Hypertension,19674.0,8649.0,Joshua Strong,Male,5
+63553945-4edb-44d6-8f32-88837735b407,2024-09-09,2024-09-18,9.0,Oncology,Diabetes,9255.0,11311.0,Lori Lopez,Male,29
+dd77eceb-f9c5-4bd9-b640-11067de8440a,2024-09-25,2024-10-09,14.0,Orthopedics,Hypertension,12883.0,7675.0,Dennis Wright,Other,47
+53c21e4b-6c83-485c-90af-5b35cc0f5257,2024-12-23,2024-12-25,2.0,Orthopedics,Cancer,18641.0,767.0,Ashley Maxwell,Female,68
+7895ce25-526b-4e9d-afb7-614825902987,2024-06-30,2024-07-19,19.0,Orthopedics,Hypertension,,4568.0,Dustin Gamble,Other,76
+fb41363d-e86e-49bb-9497-77b8daf1b53b,2024-10-30,2024-11-17,18.0,Neurology,Hypertension,8074.0,13419.0,Jeanette Rice,Male,45
+eb440173-8450-43c8-aabb-7156bb96f95f,2025-04-03,2025-04-05,2.0,Neurology,Hypertension,6874.0,9437.0,,Male,2
+695fb094-03c3-42be-b153-c274a242b223,2024-10-06,2024-10-13,7.0,Cardiology,Diabetes,2178.0,13759.0,David Flores,Other,27
+17232ce4-6351-4c29-8a6b-55b014593089,2025-01-30,2025-02-05,6.0,Oncology,Migraine,1559.0,6919.0,Daniel Butler,Female,36
+695d31fc-9aac-43e9-96ec-20fd7336f919,2024-06-23,2024-06-25,,Neurology,Diabetes,16698.0,12477.0,Elizabeth Gibson,Male,36
+7b3ebc79-bf75-4da6-8bcd-d1a3f9068c7e,2025-05-02,2025-05-14,12.0,Oncology,Hypertension,10414.0,3819.0,Vincent Alexander,Other,26
+59a75498-0308-4f54-b429-731f98f22628,2024-08-27,2024-09-01,5.0,Oncology,Hypertension,11317.0,2845.0,Lori Wade,Male,43
+f0bafabf-a324-4597-a956-2de2ac75e14f,2025-01-30,2025-01-31,1.0,Cardiology,Migraine,11421.0,7583.0,Katherine Anderson,Male,27
+31a34b88-c279-4de8-828f-f7cca2174a5a,2025-02-13,2025-03-05,20.0,Oncology,Hypertension,10289.0,639.0,Anne Garcia,Female,69
+dad69340-01d8-476c-9ace-39283c85f5ca,2025-04-27,2025-05-05,8.0,Pediatrics,Migraine,16812.0,11071.0,Jamie Snow,Female,20
+ac9ecc03-d194-406d-a92d-3c1f89ac767d,2024-11-30,2024-12-02,2.0,Orthopedics,Cancer,11752.0,5064.0,Melissa Velazquez,Other,11
+18cbedd6-a4c4-4763-9e05-bfd0f73aad13,2025-02-18,2025-03-03,13.0,Pediatrics,Migraine,3193.0,12428.0,,Male,74
+662c39e2-ae63-4418-93fd-a610a4975c57,2024-11-05,2024-11-17,12.0,Cardiology,Migraine,14431.0,4935.0,Theodore Phillips,Other,38
+d30e8d4c-ee32-4388-b474-9faf9f46e154,2024-10-20,2024-11-04,15.0,Pediatrics,Diabetes,4127.0,3875.0,Douglas Cruz,Male,6
+ef951953-ced4-4d3c-9b02-1d8f1d75d96b,2024-12-15,2024-12-24,9.0,Cardiology,Hypertension,16657.0,6142.0,Zachary Grant,Male,72
+ed3f2479-9b70-4dab-aeb7-cef992dce143,2024-11-05,2024-11-22,17.0,Oncology,Migraine,10673.0,14937.0,Joseph Wilson,Female,23
+09cc27a8-ea71-40ee-a4fd-09288783309f,2024-06-22,2024-06-23,1.0,Cardiology,Diabetes,18547.0,7202.0,Miguel Dyer,Other,47
+cb557754-2bba-4cf9-83c1-cdfb526962d9,2024-12-27,2025-01-07,11.0,Oncology,Cancer,10730.0,7412.0,Brandon Campos,Female,46
+462e502b-839c-448e-8293-296003c14781,2024-11-12,2024-11-20,8.0,Oncology,Migraine,16207.0,5420.0,Thomas Morrow,Female,12
+dfc41e26-b450-4a54-a1ac-b016d7475e8d,2024-06-09,2024-06-24,15.0,Pediatrics,Fracture,11994.0,13316.0,Brian Stevens,Female,13
+b2c4fdad-b70b-4900-8b4f-6051aefe3c2e,2025-02-09,2025-02-16,7.0,Orthopedics,Diabetes,1806.0,6232.0,Jerry Phillips,Female,62
+cee15a7a-0d6f-4e6c-a26b-6e238f42d670,2024-07-04,2024-07-24,20.0,Oncology,Hypertension,7276.0,7991.0,Jeanette Brown,Female,82
+2b811c51-479b-4267-a12e-e85263022974,2024-12-06,2024-12-23,17.0,Orthopedics,Fracture,9974.0,10800.0,Michael Barnes,Female,89
+7ed69af5-3ccd-4e26-ad0d-3d306ed919da,2025-04-15,2025-04-19,4.0,Orthopedics,Migraine,8026.0,2879.0,Bethany Fisher,Other,60
+568c373c-99fb-47de-a778-d459efc1d255,2024-10-15,2024-11-03,19.0,Pediatrics,Cancer,6030.0,1024.0,Wendy Calhoun,Male,43
+d0adb835-d003-4453-a240-4e587e500e66,2024-10-14,2024-10-26,12.0,Cardiology,Hypertension,4248.0,11248.0,Tara Dorsey,Other,76
+5cc8560a-f56e-44cd-922f-63d1100389ed,2024-09-23,2024-10-13,20.0,Cardiology,Diabetes,14045.0,1681.0,,Female,68
+15855b97-724a-4770-828b-5c5f48284c23,2025-02-01,2025-02-07,6.0,Orthopedics,Fracture,1163.0,7814.0,Connie Walters,Male,5
+67a74271-1246-4ffd-9c15-d57c0b896286,2024-08-23,2024-08-25,2.0,Oncology,Fracture,2498.0,3424.0,Whitney Casey,Female,37
+6288f01a-4e2e-4083-aae7-002f7001c115,2024-12-27,2025-01-13,17.0,Orthopedics,Diabetes,8494.0,12777.0,Eugene Hardin,Female,72
+1749b541-0a84-497f-8998-66f2b43491fc,2024-09-30,2024-10-06,6.0,Neurology,Fracture,18379.0,5813.0,Kathy Rojas,Female,31
+d92d4fc0-cd7f-4263-baa8-4fab62a8926f,2025-05-16,2025-05-21,5.0,Cardiology,Migraine,3804.0,7126.0,William Carter,Male,9
+7f92fc47-a406-4b3b-8458-51fbab29f36d,2024-08-14,2024-09-03,20.0,Cardiology,Cancer,,355.0,James Soto,Female,51
+420a0018-5955-4ec4-bc88-2a7fa7e5599c,2024-11-19,2024-11-29,10.0,Orthopedics,Hypertension,14308.0,4904.0,William Reed,Other,29
+1077f987-7420-4c70-a706-8504d7b1f5f9,2025-03-29,2025-04-17,19.0,Neurology,Migraine,7085.0,1938.0,Nicholas Moore,Male,78
+35fa9b54-4201-4b11-854f-7765581f0814,2025-01-13,2025-01-16,3.0,Cardiology,Hypertension,18175.0,10236.0,Beverly Burton MD,Male,40
+477f4ef3-0338-4392-aea7-030a87bee196,2024-12-10,2024-12-14,4.0,Orthopedics,Diabetes,12149.0,14885.0,Linda Williams,Other,41
+bcbc9465-8d0f-424a-b3f4-94c278545137,2025-04-05,2025-04-17,12.0,Orthopedics,Migraine,2136.0,109.0,Kimberly Hensley,Male,86
+98041ce1-29d9-4c86-9e30-df06acde6a91,2025-04-01,2025-04-02,1.0,Orthopedics,Migraine,17582.0,2971.0,Jesus Barton,Female,11
+e4b98b8c-0f48-4bfc-ab3c-273a7b55f67a,2024-10-09,2024-10-10,1.0,Orthopedics,Migraine,5237.0,9089.0,Jonathon Cortez,Female,23
+0889a95d-3601-4c4f-b7bc-18ccccf41513,2025-03-14,2025-03-30,16.0,Neurology,Diabetes,15055.0,7509.0,Evelyn Foley,Female,1
+f056ec23-4ca1-485f-9691-82b3d4d80ab0,2025-03-20,2025-04-09,20.0,Orthopedics,Fracture,14377.0,7518.0,Gerald Hughes,Female,46
+96aec222-3310-4da1-9c0e-cbc3047e1754,2025-04-19,2025-05-04,15.0,Orthopedics,Fracture,1354.0,13264.0,Susan Hughes,Male,21
+7621e921-1af6-4fd3-88df-87c8e527ef7a,2024-09-22,2024-10-06,14.0,Orthopedics,Migraine,6355.0,5224.0,Claire Dominguez,Male,36
+7fa91908-c93e-4f72-9d95-3de91a680818,2024-12-21,2024-12-28,7.0,Neurology,Hypertension,7892.0,1115.0,Heather Brown,Female,54
+1d58dd96-91e0-4fe6-9a27-da7a25b80672,2024-11-18,2024-11-28,10.0,Pediatrics,Hypertension,14449.0,10116.0,Daniel Brown,Other,87
+9083cc16-401f-4562-857f-15ee3b79f524,2024-11-17,2024-11-20,3.0,Pediatrics,Cancer,18591.0,12761.0,Patrick Gonzales,Female,57
+9b31cb7a-1bbb-47b9-a55b-388d4a6588e7,2024-10-27,2024-11-01,5.0,Neurology,Cancer,6291.0,11428.0,Mr. Larry Williams,Other,1
+2df03d34-c6b2-4428-8e24-f035b95eeb85,2024-07-25,2024-08-11,17.0,Orthopedics,Cancer,5431.0,2293.0,David Miller,Male,63
+01352e01-8e5b-4e93-a6b1-a18ddc16b395,2025-02-23,2025-03-11,16.0,Cardiology,Migraine,702.0,8515.0,Matthew Young,Other,54
+5b7ae29b-bf1d-4dc7-b1c1-f214c1ec123f,2024-09-05,2024-09-09,4.0,Cardiology,Migraine,11947.0,13650.0,Vanessa Chan,Male,55
+b24cadcb-2786-4fd8-8c93-d02955c94ac7,2025-02-01,2025-02-08,7.0,Oncology,Fracture,13188.0,14612.0,Wayne Harrington,Male,40
+144df4ea-c9ca-4ad9-a69b-545961a8bbf9,2024-06-02,2024-06-07,5.0,Cardiology,Diabetes,4889.0,14190.0,Casey Blankenship MD,Male,15
+0bbb3f09-6d92-4750-ab92-6b8f27818e17,2024-12-31,2025-01-13,13.0,Oncology,Cancer,2827.0,13240.0,,Other,21
+083a97e0-d1f3-4b43-a2f9-9eac88d5d17f,2025-03-23,2025-04-06,14.0,Neurology,Migraine,8504.0,7549.0,Joel Little,Male,47
+5ca706f5-35b2-401a-9ac8-96f29fedb3d4,2024-10-18,2024-10-23,5.0,Cardiology,Fracture,19815.0,4258.0,Donald House,Female,73
+d3f7b2db-ba74-429b-bb1e-026f6e0e57ac,2025-04-09,2025-04-25,16.0,Oncology,Hypertension,8277.0,13628.0,John Rodriguez,Female,53
+85e163b0-d218-4839-bf7f-1ba9616337d3,2025-04-18,2025-04-28,10.0,Pediatrics,Fracture,697.0,4025.0,Madison Thompson,Male,9
+3daf6825-f125-4be8-8a7b-efff02662be2,2024-09-06,2024-09-15,9.0,Cardiology,Cancer,2430.0,7070.0,Dawn Miller,Female,74
+0e3240c1-801a-453f-972c-8d176454e174,2024-12-14,2024-12-15,1.0,Orthopedics,Migraine,12274.0,7038.0,Cody Newton,Female,52
+8c7a6aaa-69d6-4426-a995-e103f2ec5e1b,2025-03-09,2025-03-21,12.0,Cardiology,Migraine,15587.0,4884.0,Melinda Wilkinson,Male,57
+25f44430-9d27-4fd9-8ff6-4e0b28d18e91,2025-03-19,2025-03-28,9.0,Cardiology,Diabetes,9839.0,13872.0,Marvin Burke,Other,26
+edfa6a43-b41e-4dce-a2d1-5c3fe94ca4a5,2025-01-31,2025-02-08,8.0,Pediatrics,Diabetes,12089.0,4100.0,Curtis Williams,Other,41
+f6b9c57e-0359-4322-82e8-b1001be9ef8d,2024-11-03,2024-11-08,5.0,Orthopedics,Hypertension,19395.0,1733.0,Lisa Reynolds,Other,35
+c893dc0b-7540-4378-a6cf-0a7f7e7b6c50,2025-03-21,2025-04-10,20.0,Orthopedics,Diabetes,16208.0,10444.0,Anna Stephenson,Female,63
+22979c30-5874-4d5a-8baa-ddd189648c2c,2024-07-19,2024-07-31,12.0,Oncology,Fracture,17543.0,7366.0,Eric Robertson,Female,25
+761c0f9e-3e84-45e9-9108-c2fb01381acb,2024-08-09,2024-08-19,10.0,Pediatrics,Diabetes,3311.0,8802.0,Jesse Santos,Female,75
+301556b1-5480-4c96-a652-586f2c1503a9,2024-10-06,2024-10-19,13.0,Oncology,Fracture,14743.0,484.0,James Vazquez,Other,38
+d0b43ce8-941b-4b32-ab71-b70f80a5d8c5,2024-11-19,2024-11-28,9.0,Orthopedics,Fracture,7046.0,504.0,Brent Johnson,Female,2
+ffe293dd-6bdf-4698-a918-f6c4e0537611,2025-01-10,2025-01-20,10.0,Neurology,Migraine,2486.0,8275.0,Brian Davis,Female,7
+9a90c497-cbe0-41db-9671-1669de249bc0,2025-02-08,2025-02-09,1.0,Neurology,Migraine,8838.0,12905.0,Samantha Mitchell,Male,82
+0f9a96a1-ef0a-4b69-b514-83d0cc4a6665,2024-06-11,2024-06-17,6.0,Oncology,Hypertension,11911.0,12863.0,Erika Thompson,Other,34
+d977104f-141c-41fb-8371-f0ef947d5bce,2024-05-29,2024-06-13,15.0,Oncology,Diabetes,3411.0,2100.0,James Waters,Female,17
+fcb7f4b0-e509-460a-a12e-3feeab1189cf,2025-05-09,2025-05-23,14.0,Neurology,Diabetes,2234.0,11048.0,Claire Mclean,Other,43
+4de633af-85d0-427c-9c69-1e7ffb0d281f,2025-04-01,2025-04-18,17.0,Pediatrics,Hypertension,18727.0,9960.0,Cole Brown,Other,59
+91437d44-a76e-4ddd-a02d-cb9cb93b01fc,2024-11-23,2024-11-25,2.0,Cardiology,Cancer,9180.0,6089.0,Mr. Kevin Roach,Female,51
+09183458-95ea-4e57-94cf-1e6e2cc597f1,2024-10-15,2024-11-04,20.0,Neurology,Cancer,19860.0,1560.0,Joseph Frank,Female,54
+23de7638-5fc6-4050-97d0-a4b1e2e2f3ac,2024-10-23,2024-11-03,11.0,Pediatrics,Diabetes,18843.0,7290.0,Michelle Hunter,Male,24
+a50b57e6-3620-4d93-be6d-15dd309366b3,2024-08-13,2024-08-22,9.0,Cardiology,Migraine,6259.0,7240.0,Lisa Hopkins,Female,25
+03efbb79-cbf5-4a34-8b58-49d7d3836128,2024-09-06,2024-09-26,20.0,Oncology,Fracture,2885.0,3736.0,Daniel Perez,Male,71
+d1786785-a636-4994-ad4a-7ba8ab10e89c,2024-09-09,2024-09-27,18.0,Orthopedics,Cancer,11611.0,11016.0,Lori Houston,Other,52
+e6a7d30a-b379-459c-9fe7-f2804c5be3ad,2024-10-01,2024-10-07,,Oncology,Diabetes,5236.0,4909.0,James Boyd,Male,70
+6058bbb8-c17b-4990-9204-19bda2f0cf8c,2024-10-25,2024-10-29,4.0,Pediatrics,Fracture,2302.0,4278.0,Jessica Rich,Male,88
+066ef3cc-1483-4760-a5ba-1397634a5c7b,2024-10-05,2024-10-18,13.0,Cardiology,Cancer,8655.0,13556.0,Michael Clark,Female,33
+f3701c5e-4c48-4ef2-b810-4beaf3b533f3,2025-04-27,2025-04-28,1.0,Oncology,Diabetes,8620.0,7345.0,Jesus Lee,Other,49
+17daf9c6-5006-45ab-8907-5a5a2335b230,2024-12-20,2025-01-09,20.0,Cardiology,Migraine,7116.0,6700.0,,Other,29
+8f6edea2-3688-4ee6-a14a-82f7a8b0063e,2024-09-09,2024-09-15,6.0,Pediatrics,Fracture,14757.0,6097.0,Terry Leon,Male,63
+be5ec42f-ae80-4f12-a627-8f291be84e44,2024-07-29,2024-08-18,20.0,Cardiology,Migraine,14986.0,2148.0,Vickie Reynolds,Other,22
+c1d04c2a-2144-42de-a4ea-1cc79b80a20a,2025-01-10,2025-01-11,1.0,Neurology,Diabetes,17146.0,12438.0,,Other,26
+d7607e7f-eed3-450c-93c0-332af24fe32c,2024-11-08,2024-11-15,7.0,Cardiology,Cancer,14575.0,4880.0,Allison Hayes,Female,28
+bc66e04c-644a-42f6-9ff3-cd86c0fb8e3e,2024-12-19,2024-12-25,6.0,Cardiology,Fracture,9708.0,816.0,John Davis,Male,85
+520b0c74-8a68-4beb-9163-3b4336a81082,2024-09-16,2024-09-26,10.0,Orthopedics,Hypertension,16871.0,8039.0,Malik Murphy,Male,49
+c48f88b3-56a7-4602-af97-d099be7d9c24,2025-01-15,2025-01-24,9.0,Pediatrics,Hypertension,12335.0,5665.0,Wendy Madden,Female,71
+4f7dabb7-6031-4f96-a0d1-007065e51bb7,2024-08-03,2024-08-14,11.0,Orthopedics,Diabetes,13668.0,4644.0,Riley Pacheco,Other,81
+64d05be9-0031-4150-a2aa-0f3c05d0b306,2024-12-11,2024-12-24,13.0,Cardiology,Diabetes,2549.0,5076.0,Dr. Kimberly Jenkins,Other,84
+1515ebeb-5c4a-4c71-8b02-90ca84b6670b,2025-01-18,2025-01-22,4.0,Oncology,Hypertension,5923.0,12875.0,Shawn Jacobs,Female,49
+bac994a7-207b-4d56-b7de-4b7b1a3ad3d7,2024-07-12,2024-07-19,7.0,Orthopedics,Fracture,15089.0,10115.0,Casey Rose,Female,20
+b0a6cfe6-f7eb-4bab-b2d1-0f0cb336f5d5,2024-06-27,2024-07-02,5.0,Oncology,Hypertension,19992.0,10373.0,Amanda Jacobson,Female,86
+07c7e416-0205-46dc-970d-000269762cf2,2024-08-28,2024-09-07,10.0,Oncology,Migraine,7658.0,3519.0,Raymond Mitchell,Female,63
+5f29550e-d617-4e1c-83a9-ccf65d6b1880,2024-11-21,2024-12-01,10.0,Oncology,Fracture,10748.0,14530.0,Christopher Gonzalez,Other,61
+aabae8c4-41ed-43c2-bf11-59bbb34df944,2024-12-30,2025-01-04,5.0,Orthopedics,Cancer,7900.0,7339.0,Rachel Olson,Female,49
+957c7fd4-c7c5-4616-9892-ffae143af7cd,2025-03-17,2025-04-02,16.0,Pediatrics,Cancer,10374.0,9866.0,Joyce Gibson,Male,71
+a876a7ac-9f12-4f20-b603-248da779b3b9,2024-12-11,2024-12-31,20.0,Cardiology,Diabetes,15651.0,14589.0,Mr. David Quinn,Male,1
+abd0a90e-9500-490d-a9a0-e697079cef3d,2024-10-02,2024-10-09,7.0,Pediatrics,Hypertension,,349.0,Kristen Lewis,Female,13
+766e17b3-9c1a-422d-a9dd-c8873690c2ab,2024-06-29,2024-07-02,3.0,Pediatrics,Cancer,1654.0,8965.0,,Male,87
+f7338abb-ca41-46a2-85c8-bff28dc02229,2024-06-06,2024-06-11,5.0,Neurology,Hypertension,4999.0,12825.0,Amanda Taylor,Other,51
+85b888d6-25d3-494f-80a1-06caa7206d5e,2024-06-15,2024-07-02,17.0,Orthopedics,Fracture,6795.0,10457.0,,Male,56
+e202ceb6-b931-4549-85da-bd107a1e1def,2025-02-06,2025-02-12,6.0,Orthopedics,Migraine,12683.0,870.0,Kayla Peterson,Female,83
+c7186483-0ea6-4dc0-9e18-5807d5f4be82,2024-08-10,2024-08-15,5.0,Oncology,Hypertension,13374.0,12254.0,Christine Evans,Male,62
+d6b16dfc-ee38-4867-80ad-4815faa94178,2024-11-07,2024-11-26,19.0,Neurology,Hypertension,18532.0,4463.0,Jeffrey Johnson,Other,32
+7107255f-32cf-4942-bd96-6a7485437bf5,2025-04-05,2025-04-12,7.0,Cardiology,Cancer,6039.0,10276.0,Kevin Terry,Female,30
+4d17d35c-7af3-4dcd-9771-69429292eb01,2024-11-18,2024-11-24,6.0,Orthopedics,Hypertension,10137.0,1177.0,David Berg,Female,29
+a2db819e-e1d3-47e5-a1ea-91ff1c9071cc,2025-05-07,2025-05-21,14.0,Orthopedics,Cancer,16086.0,8527.0,Katie Ramirez,Other,49
+846aa1ef-e07c-4cfd-b921-72d48f7d6c9b,2024-08-11,2024-08-30,19.0,Neurology,Fracture,3057.0,8680.0,Emily Porter,Female,45
+fa970f28-c988-4f45-8dec-bab19a45bc36,2025-04-06,2025-04-19,13.0,Orthopedics,Diabetes,6092.0,11329.0,Deborah Williams,Female,30
+fb4dddb4-3e27-4132-bedf-b12d5ff9e66e,2025-04-25,2025-04-28,3.0,Cardiology,Diabetes,16982.0,8001.0,Brent Lee,Male,16
+321465d2-3ac3-4421-a64c-7b3a79fde1c2,2025-04-14,2025-04-20,6.0,Cardiology,Hypertension,2700.0,4958.0,Misty Hopkins,Male,40
+da6fc756-8858-4601-9516-22261345840c,2024-10-19,2024-10-21,2.0,Cardiology,Cancer,14672.0,10140.0,Jenna Wilson,Female,19
+33019945-8a52-47df-b045-45d8c2260f1a,2024-09-24,2024-10-10,16.0,Pediatrics,Migraine,3461.0,6644.0,,Male,18
+a3f021e0-ea98-4a3c-b89d-534961d1ce54,2024-11-17,2024-11-29,12.0,Cardiology,Hypertension,14707.0,4819.0,Mark Moss,Female,1
+d1470bd3-50b2-43cd-a07a-4be569ef6175,2024-10-11,2024-10-12,1.0,Orthopedics,Hypertension,12469.0,2914.0,Corey Burch,Male,78
+c83a0c47-28fc-4c69-a6db-f0d20c66a7bd,2025-04-23,2025-05-07,14.0,Neurology,Migraine,3369.0,3474.0,Kevin Pitts,Other,47
+bf17816b-3c23-4876-9e20-b308ae450688,2024-12-25,2024-12-26,1.0,Orthopedics,Migraine,17840.0,11570.0,Sean Spencer,Other,66
+859b6431-d2cb-4494-bee8-811b80966164,2024-08-05,2024-08-15,10.0,Pediatrics,Diabetes,14492.0,1352.0,Tricia Armstrong,Other,38
+e5a77732-72d5-434a-97db-ae11f7a2af8b,2024-12-23,2025-01-02,10.0,Oncology,Diabetes,6199.0,7096.0,Anthony Clark,Male,51
+15965fa3-e936-4339-a178-7a884bdde650,2024-11-02,2024-11-10,8.0,Pediatrics,Cancer,4487.0,12273.0,Dan Fox,Female,63
+c0d9f6ad-ca83-4845-9088-2021eae5cccf,2025-05-07,2025-05-26,19.0,Cardiology,Diabetes,13946.0,4773.0,Clarence Barker,Female,4
+737fda22-f36c-4e28-ac5b-72ed9fbacaad,2024-05-31,2024-06-06,6.0,Cardiology,Hypertension,1718.0,10414.0,Samantha Walsh,Female,1
+961c0545-db8a-48ec-a3ff-c5674c563f5a,2025-01-10,2025-01-18,8.0,Oncology,Cancer,5235.0,4630.0,Miranda Martinez,Other,8
+8032aea4-15bb-4b09-9c4e-f98ce302492b,2025-05-18,2025-05-24,6.0,Cardiology,Hypertension,11796.0,10442.0,David Frazier,Female,29
+6f1b79ee-ac13-44db-a698-187b5852fe16,2024-12-25,2025-01-14,20.0,Orthopedics,Diabetes,5055.0,13151.0,Mark Williamson,Female,55
+52ebdc41-07d0-49b0-91b3-92cccf0261f3,2024-07-10,2024-07-17,7.0,Pediatrics,Fracture,9646.0,6981.0,Amber Arnold,Male,3
+87628d36-31df-423a-9630-dd8e096d8f78,2024-08-30,2024-09-06,7.0,Pediatrics,Fracture,8550.0,7049.0,Jenna Salazar,Female,32
+62450022-a80b-42f8-be60-bf65952c4a8d,2024-08-04,2024-08-06,2.0,Orthopedics,Hypertension,13257.0,9621.0,Alexis Lang,Other,10
+25d11d36-3acd-4bc9-9152-5f7fa5b131c9,2025-03-28,2025-04-04,7.0,Oncology,Fracture,17929.0,6341.0,Gary Martinez,Other,74
+cb0ed34c-3ecd-4d97-9b2b-952617b7c7d4,2025-02-08,2025-02-18,10.0,Orthopedics,Migraine,7393.0,8117.0,Eduardo Mcbride,Female,83
+8dc79dab-018f-45c4-a2c9-9253a51637ad,2024-10-24,2024-11-13,20.0,Orthopedics,Migraine,18577.0,7041.0,Shelly Gonzalez,Female,34
+66edc3fc-344a-404c-8dc6-be76b3b2297c,2025-02-07,2025-02-27,20.0,Cardiology,Cancer,14873.0,9650.0,Terry Hammond,Male,87
+4d19a9cc-cdcc-4a0b-9de5-d496da41cd03,2024-10-24,2024-10-25,1.0,Neurology,Diabetes,15065.0,7102.0,Nicholas Simmons,Male,55
+82f132d7-3f65-4067-9598-30db33e603a1,2025-03-26,2025-04-07,12.0,Pediatrics,Cancer,3936.0,10774.0,Melissa Baldwin,Female,32
+82311159-4f6d-4cd8-8bf4-40d9bcc34513,2024-09-28,2024-10-04,6.0,Pediatrics,Fracture,9254.0,12834.0,Lisa Wade,Female,50
+44832ba7-4f9c-402e-a2e7-e12ad23aea48,2024-06-21,2024-07-06,15.0,Oncology,Fracture,11177.0,10309.0,,Male,7
+b470f6bb-6719-4903-91ca-21235a18d4b2,2024-11-22,2024-11-28,6.0,Neurology,Cancer,6395.0,1431.0,Kendra Park,Other,8
+8fca3640-0afc-4640-a40c-767701d83322,2024-11-23,2024-12-10,17.0,Neurology,Migraine,17109.0,12636.0,Amber Cooke,Male,65
+ae069f57-5877-4e1b-ba2c-820dc1d31e64,2024-11-21,2024-11-25,4.0,Neurology,Fracture,,4361.0,Diana Schwartz,Male,57
+e40a1226-06fc-4231-b972-d421e1e71530,2025-05-19,2025-05-26,7.0,Orthopedics,Hypertension,7522.0,7748.0,Christopher Edwards,Male,67
+ec7415c7-0379-40a9-babb-92ea3b455510,2025-01-22,2025-01-31,9.0,Pediatrics,Fracture,9651.0,9650.0,Abigail Cunningham,Female,88
+47d37f89-2a39-4de5-8609-0d9958b27bac,2024-07-30,2024-08-06,7.0,Cardiology,Diabetes,6100.0,5215.0,Tami Walker,Female,87
+b90402bd-e7e3-4542-8919-f6db08f1b4d0,2025-03-08,2025-03-16,8.0,Oncology,Migraine,8496.0,4737.0,Micheal Smith,Female,59
+f32b78fe-ec5a-4f62-9037-3c24612ce177,2025-03-15,2025-04-02,18.0,Cardiology,Cancer,9507.0,4954.0,Melody Jensen,Other,72
+f9ec0c38-8115-43b6-9eab-feb6c8ef215f,2025-03-30,2025-04-05,6.0,Orthopedics,Migraine,13446.0,3277.0,Diane Benton,Male,54
+4e76f1de-1083-4921-b16f-42ade05e4b78,2024-10-26,2024-11-09,14.0,Neurology,Hypertension,5142.0,7830.0,Yolanda Parker,Other,67
+09d8a697-8b8b-4884-b338-7154ca689cf7,2024-06-19,2024-06-20,1.0,Pediatrics,Diabetes,11812.0,10420.0,Brandon Martin,Male,51
+e4ac0599-582a-490d-b689-323e1b16becb,2025-02-20,2025-02-22,2.0,Cardiology,Fracture,8179.0,2280.0,Charles Mack,Male,8
+2dd6356b-99a9-4c38-a02f-a2e459c6228f,2024-08-03,2024-08-18,15.0,Cardiology,Fracture,8708.0,4992.0,Casey Russell,Female,34
+aacd7023-6cb5-46ca-9c4c-c8c4defa6324,2025-03-29,2025-04-05,7.0,Neurology,Cancer,19089.0,7143.0,James Thompson,Other,35
+f6d53a36-68a2-45da-9780-67a98d5f7345,2024-10-26,2024-11-07,12.0,Oncology,Hypertension,11216.0,237.0,Jeffrey Zamora,Female,88
+42dda3ed-8df5-410f-9cc8-60e506ea9639,2025-05-19,2025-05-25,6.0,Pediatrics,Cancer,17953.0,6427.0,Mark Perez,Female,78
+38af9e0a-2711-46ee-a55a-fb5f218116fa,2024-06-28,2024-07-02,4.0,Cardiology,Cancer,3944.0,3572.0,Christopher Flores,Female,32
+e71505bc-f7f3-4892-9308-be518079074f,2024-11-02,2024-11-08,6.0,Cardiology,Hypertension,11257.0,5549.0,Scott Nichols,Female,46
+ba794007-b214-426a-bd36-f921c10862d7,2025-05-13,2025-05-14,1.0,Neurology,Fracture,14934.0,2932.0,Amy Perkins,Male,16
+69a3cb72-2abb-4914-93f4-bc2b7998b477,2024-08-22,2024-08-26,4.0,Pediatrics,Fracture,1560.0,3679.0,Bill Ford,Female,68
+ff648ae6-525c-4ed8-b8b2-705566d3257e,2024-07-29,2024-08-18,20.0,Pediatrics,Migraine,19211.0,6071.0,Jamie Jackson,Male,37
+e9e89dbd-fd71-41ec-a3b1-16b1ad789eee,2025-03-09,2025-03-25,16.0,Cardiology,Cancer,3920.0,11323.0,Kathryn Lutz,Female,54
+707ba71d-2eec-4334-bf52-7feaa6ebcae2,2024-06-12,2024-06-21,9.0,Oncology,Cancer,801.0,4264.0,Kelsey Steele,Male,85
+ad2a7b13-3561-42ee-81b9-4c43b8912aa8,2025-03-27,2025-04-08,12.0,Neurology,Diabetes,12968.0,10885.0,Samantha Cisneros,Female,14
+255b0edd-7d47-4d93-88d2-3bd97d3ed15b,2024-12-27,2025-01-06,10.0,Cardiology,Diabetes,17490.0,8041.0,,Other,55
+f30d155f-f67e-4d3a-b6eb-bbe2d4a2b051,2024-11-29,2024-12-09,10.0,Oncology,Hypertension,1199.0,14488.0,Nathan Sullivan,Female,48
+f83dffac-048e-4c07-aadf-8b4f425949f6,2024-10-23,2024-11-05,13.0,Orthopedics,Hypertension,690.0,5669.0,Sarah Payne,Other,82
+c7b09c33-8808-4364-bfc6-482bb084f07d,2024-11-01,2024-11-10,9.0,Oncology,Diabetes,10992.0,4400.0,Joseph Howell,Female,7
+68269f54-1442-4c77-9a04-256792733467,2024-08-28,2024-09-07,10.0,Cardiology,Cancer,17864.0,6369.0,Chelsey Ball,Other,74
+4972c3fa-d658-4349-97e0-85ed690a0422,2024-11-20,2024-12-05,15.0,Cardiology,Migraine,3475.0,3918.0,Krista Bullock,Male,7
+5489617e-e150-4857-8041-0f125bfc35ae,2024-10-05,2024-10-21,16.0,Oncology,Hypertension,6602.0,12430.0,Dean Johnson,Female,33
+3ea1508d-9c11-499a-935c-b5c49b590f73,2025-04-13,2025-05-02,19.0,Pediatrics,Migraine,18068.0,12115.0,William Mcbride,Female,23
+4e12ccb9-2647-45c5-a109-8b688be4f878,2025-01-07,2025-01-11,4.0,Pediatrics,Hypertension,2316.0,12334.0,William Griffin,Other,85
+6b9d5606-3a84-4a0f-8ef5-001f65ac01dc,2024-06-08,2024-06-26,18.0,Cardiology,Diabetes,1069.0,2006.0,Joseph Collins,Male,19
+d6ce5c6d-6430-48d7-8d62-c46a00dac499,2024-08-14,2024-09-01,18.0,Pediatrics,Cancer,5942.0,6354.0,Caroline Hunt,Other,19
+79c51a46-f9ca-40d8-9065-f5ea32643d37,2024-07-18,2024-07-26,8.0,Neurology,Fracture,2395.0,860.0,Brenda Meyer,Other,36
+7abf7ec9-8fd6-4aa4-a1a9-2fbc547f7d7e,2024-07-09,2024-07-11,2.0,Orthopedics,Migraine,19617.0,7930.0,Denise Barrera,Male,29
+8c65dfca-c343-4997-9b58-04625d6dc96b,2025-03-12,2025-03-28,16.0,Pediatrics,Migraine,4363.0,7450.0,Paul Rodriguez,Female,60
+66feffa5-b6b0-4c74-ac9e-abd1d00795a3,2024-10-29,2024-11-04,6.0,Neurology,Fracture,13413.0,6338.0,Michael Williams,Male,82
+03c8beaa-3201-441d-aeb7-d5f29bd3be77,2024-09-30,2024-10-11,11.0,Pediatrics,Fracture,7955.0,6190.0,Audrey Summers,Other,2
+5cfbe61c-e271-4b8f-97f9-3088d4b3a0d7,2024-07-23,2024-08-05,13.0,Pediatrics,Hypertension,4514.0,11737.0,Mark Anderson,Male,1
+ca6f76ea-847c-457f-acc3-d9ed23ed7a8f,2024-06-23,2024-07-04,11.0,Orthopedics,Hypertension,11593.0,6131.0,Diana Brown,Female,47
+0571a6d9-6502-4671-83c4-a6b424ea48f4,2024-06-12,2024-06-27,15.0,Pediatrics,Migraine,18570.0,7787.0,Matthew Grant,Male,69
+9589c3f8-2956-42cb-9c1d-a08de8ecba21,2024-12-29,2025-01-08,10.0,Cardiology,Diabetes,,9191.0,,Male,20
+8c924a4d-bf4d-48bb-a3a6-86e1aa301610,2024-12-11,2024-12-18,7.0,Neurology,Fracture,17038.0,12747.0,Ashley Howard,Other,11
+075a23bf-9460-4e7c-82be-97a77b5b8a82,2024-09-05,2024-09-16,11.0,Cardiology,Fracture,11229.0,11239.0,,Male,2
+1b9e0ab6-03fa-4114-9b3f-4b1636316f53,2024-11-09,2024-11-29,20.0,Cardiology,Diabetes,1909.0,10011.0,Sharon Adams,Male,67
+564e6a56-4f0c-46a9-9b7b-c89bd3f65e58,2024-07-27,2024-07-31,4.0,Oncology,Hypertension,12749.0,8572.0,Joseph Duffy,Female,87
+cf6080b4-ed27-4cfe-a12f-340dedff01e9,2024-06-17,2024-07-06,19.0,Oncology,Diabetes,1284.0,11558.0,Julia Kelly,Female,12
+b45b661a-d253-460a-9a7c-a724c2bf2056,2025-03-22,2025-03-29,7.0,Cardiology,Hypertension,8596.0,1987.0,Jorge Mills,Other,20
+7f6e6e22-cf22-44d1-9674-73170e05e1b5,2025-04-06,2025-04-19,13.0,Cardiology,Fracture,8060.0,3366.0,Miranda Morgan,Other,5
+943469ce-4c64-45af-8137-d86756db0bc1,2024-07-24,2024-07-27,3.0,Cardiology,Diabetes,13033.0,766.0,Karen Dixon,Male,37
+bcb8292a-3add-4180-bc82-b506aa94d367,2025-04-24,2025-05-13,19.0,Neurology,Hypertension,7843.0,4288.0,Brittney Lamb MD,Female,38
+b542edd6-db82-48f2-8813-2eebc8cb5f2e,2024-07-28,2024-08-10,13.0,Orthopedics,Diabetes,7706.0,771.0,Joseph Thomas,Female,9
+0143c179-64c2-4324-873c-c756f981b4c5,2024-11-27,2024-12-12,15.0,Orthopedics,Cancer,6301.0,10261.0,Jason Hoover,Male,53
+8cddc614-0378-41d9-9052-736c725e35b1,2025-01-21,2025-02-09,19.0,Oncology,Diabetes,19690.0,12448.0,Leslie Torres,Male,44
+81f8f0da-e144-4152-9c8a-20506e6aa469,2024-08-13,2024-08-21,,Cardiology,Cancer,17421.0,6877.0,Amanda Anderson,Female,86
+b109ed9e-c670-482f-9f89-a210abf76dda,2024-10-02,2024-10-07,5.0,Orthopedics,Migraine,6486.0,11414.0,Elizabeth Avery,Male,24
+4d9faab0-16f1-4eb6-95c4-0a501bf5fdcf,2025-01-31,2025-02-09,9.0,Pediatrics,Migraine,18725.0,7670.0,Bryan Wallace,Other,81
+f28a45df-473f-4d30-985f-bb17ed76a82b,2024-05-21,2024-05-29,8.0,Oncology,Migraine,11147.0,8056.0,Patrick Lewis,Other,74
+45189a38-0b2b-453c-a3cd-fdc68cfeaa13,2025-03-18,2025-03-24,6.0,Oncology,Migraine,9216.0,5224.0,Brianna Chapman,Female,30
+79d1659d-0ca3-46a9-82de-b8e25b6d8bfb,2024-12-01,2024-12-08,7.0,Pediatrics,Fracture,19834.0,5685.0,Anne Dougherty MD,Other,59
+cbf93713-78bc-4e3f-9d7e-9ebfd989fbee,2025-01-02,2025-01-03,1.0,Orthopedics,Fracture,12823.0,12991.0,Amanda Gonzalez,Male,87
+2c442746-0602-4e13-b5d2-c345bf732f11,2024-06-21,2024-06-28,7.0,Oncology,Hypertension,5280.0,4877.0,Erica Richard,Other,81
+d334c533-da37-49db-b8fc-ab4befeccde0,2025-03-08,2025-03-26,18.0,Cardiology,Migraine,2868.0,4000.0,Brenda Davis,Female,81
+acce4d55-e679-4a38-aedd-fa51b7d48166,2025-02-28,2025-03-19,19.0,Pediatrics,Diabetes,12539.0,6777.0,Noah Smith,Female,14
+61e5282f-8edb-4000-b284-9535b44a4592,2025-05-17,2025-05-25,8.0,Cardiology,Migraine,7155.0,13816.0,Andrew Atkinson,Other,9
+879be584-c171-46c7-8452-ed21c1aec8cd,2024-05-22,2024-06-02,11.0,Oncology,Diabetes,8673.0,7081.0,Joe Wang,Female,40
+8041f739-a1f7-42f1-a8a3-a2390f0e169f,2025-04-03,2025-04-19,16.0,Cardiology,Fracture,4995.0,6476.0,Preston Pratt,Female,66
+b8367540-c5a7-47d0-9200-08a0a5fc26f9,2024-06-18,2024-06-19,1.0,Cardiology,Diabetes,11393.0,623.0,Mrs. Amanda Ibarra,Other,25
+d504b256-2a40-4fda-a1cc-3217b671c41f,2024-11-11,2024-11-14,3.0,Orthopedics,Hypertension,13903.0,2493.0,Joshua Padilla,Male,73
+cc901893-ad05-4da6-b96e-6f7f896d0ae0,2024-12-22,2024-12-27,5.0,Pediatrics,Cancer,13621.0,11409.0,John Estrada,Female,22
+ad1ea4e4-aadb-4bcb-8c67-f2fbcec82fdc,2025-02-23,2025-03-03,8.0,Orthopedics,Hypertension,11466.0,2693.0,Sean Davidson,Female,4
+602f260a-7ca8-4aa4-a607-2d3ed5db8e11,2025-05-12,2025-05-22,10.0,Pediatrics,Migraine,1353.0,10260.0,Nathan Kelley,Other,26
+29fe46b1-6818-4aec-ab59-79188f2ec022,2024-09-05,2024-09-14,9.0,Orthopedics,Migraine,17458.0,13489.0,Jennifer Martin,Male,58
+bffe225c-7f17-43f3-a211-a6235eb547f3,2025-03-09,2025-03-23,14.0,Oncology,Migraine,18032.0,10045.0,,Female,29
+f6d75d4d-7adb-4a72-b804-b59f8573fe46,2025-02-07,2025-02-14,7.0,Pediatrics,Migraine,10407.0,14224.0,Shane Forbes,Female,87
+63ac653c-0736-4c9a-adf5-9dc8d0927e00,2024-10-22,2024-10-25,3.0,Cardiology,Diabetes,5277.0,7340.0,,Other,37
+0cf95f55-1742-4cc0-9fd3-de50f467cba2,2024-11-17,2024-12-05,18.0,Neurology,Migraine,15838.0,7037.0,Diana Hernandez,Other,75
+97b9f829-34bd-4926-8832-0ba98a6951f9,2024-12-06,2024-12-20,14.0,Neurology,Migraine,2991.0,10588.0,Kevin Ryan,Female,70
+f80f5d41-aaa7-42f5-9396-033ea8211139,2025-04-30,2025-05-01,1.0,Oncology,Hypertension,15828.0,6290.0,Alexis Greene,Female,18
+51fb5471-bb76-490c-b040-4f89de90af3d,2025-01-03,2025-01-05,2.0,Pediatrics,Diabetes,15099.0,5340.0,Jessica Howell,Other,85
+496c1830-f9eb-478d-9f7b-2028e8152e74,2024-06-04,2024-06-18,14.0,Oncology,Cancer,3551.0,10553.0,Tara Smith,Other,42
+9aa49c91-26e0-4200-8235-57179919f17f,2024-11-23,2024-12-11,18.0,Orthopedics,Cancer,16479.0,10578.0,Nichole Richmond,Female,41
+1c9b40a6-ec0b-4e4d-9da0-075f684c6c3a,2025-02-28,2025-03-19,19.0,Orthopedics,Cancer,16888.0,13467.0,Cindy Hensley,Other,38
+f10a890a-f98d-4514-ac3f-c2fd0e1e9f22,2025-01-14,2025-01-31,17.0,Orthopedics,Migraine,1376.0,6593.0,Natalie Daniel,Female,34
+1d934039-8092-4342-ace4-f7d1903c60c3,2025-04-19,2025-05-05,16.0,Cardiology,Fracture,4642.0,12494.0,Rebecca Fernandez,Male,17
+c27d721d-f3da-4d6d-9951-6cba637f654f,2024-12-05,2024-12-18,13.0,Orthopedics,Diabetes,15702.0,2978.0,Brandi Ferguson,Male,37
+a8870bf9-5baf-4c25-9546-9f0298e48791,2024-09-05,2024-09-21,16.0,Orthopedics,Diabetes,7466.0,4243.0,William Walker,Other,25
+074b324c-232c-4e7c-8ab6-a033dc4a1033,2024-06-02,2024-06-21,19.0,Pediatrics,Diabetes,7579.0,3744.0,Jacqueline Elliott,Female,76
+d614d1a0-245c-4b79-aa65-67a8099a0c63,2024-11-13,2024-11-29,16.0,Orthopedics,Migraine,8487.0,4532.0,William Bennett,Male,87
+9f4573bd-92d2-43cd-82f4-5fbffab3f87c,2025-05-09,2025-05-18,9.0,Orthopedics,Migraine,7299.0,13437.0,Dr. Kristin Cabrera,Other,86
+68897dee-a4eb-4b5f-9139-b36071187916,2024-07-23,2024-08-09,17.0,Orthopedics,Migraine,4965.0,13668.0,Gregory Rojas,Other,85
+d7d99eea-a90d-422d-ab26-77bc1790babb,2024-08-13,2024-08-17,4.0,Orthopedics,Diabetes,17519.0,10347.0,James Smith,Male,27
+9169a42c-6532-4dfb-b663-edda3e1931cf,2024-06-29,2024-06-30,1.0,Orthopedics,Cancer,13917.0,13012.0,Jennifer Sherman,Other,57
+58006452-a1e8-46b8-8276-fd64afc905f8,2025-03-12,2025-03-13,1.0,Pediatrics,Hypertension,18577.0,14278.0,,Female,31
+8e31492a-dab5-40a2-9ae8-2e09542d4583,2025-03-05,2025-03-22,17.0,Neurology,Migraine,8811.0,1376.0,Sarah Young,Female,6
+47e774cb-9c21-4ac1-bea0-459b4d1dfa44,2024-09-26,2024-09-28,2.0,Cardiology,Migraine,17714.0,5911.0,Ashley Jones,Other,40
+9ce87383-7baf-4a5b-aded-e4a2e13d74ac,2024-12-04,2024-12-13,9.0,Cardiology,Migraine,14598.0,11058.0,Christopher Stephens,Other,12
+8d656483-c72a-4457-8566-a374b0891aaa,2024-08-31,2024-09-04,4.0,Oncology,Migraine,5677.0,402.0,Donna Mcdonald,Other,53
+0b3ce2c5-cd0f-426c-901b-3c3aaf33f854,2024-10-18,2024-10-21,3.0,Oncology,Diabetes,14762.0,738.0,Jason Coleman,Male,71
+d3540f3d-12a4-4155-90de-10cf1dbab77f,2024-07-22,2024-08-01,10.0,Orthopedics,Hypertension,8808.0,155.0,Kyle Arnold,Male,10
+3ac1ce70-67ed-403d-8189-0f8103f90501,2024-08-04,2024-08-05,1.0,Oncology,Hypertension,6449.0,13113.0,Leah Cole,Male,45
+aa219f2d-075d-4195-8eb2-8c5395ab3fde,2024-07-05,2024-07-21,16.0,Neurology,Fracture,19722.0,8817.0,Adam Stone,Male,17
+2e3ea2c4-5845-4e77-ba35-b25c587421e5,2024-07-28,2024-08-16,19.0,Oncology,Hypertension,1650.0,12861.0,Cory Kent MD,Other,26
+8f5a737b-7b92-4c73-bf8a-fde46fd739b7,2025-02-19,2025-03-05,14.0,Oncology,Diabetes,2431.0,12415.0,Jeremy Garner,Female,85
+b08e7ef0-2c82-48e4-87e8-6a712e97d7e9,2025-03-05,2025-03-12,7.0,Pediatrics,Cancer,9704.0,8250.0,Warren Steele,Male,62
+bcc8a1b5-8ffa-4633-b8f1-53219f1fd46f,2025-02-25,2025-03-10,13.0,Cardiology,Fracture,18548.0,2225.0,Amanda Mendoza,Other,46
+3f1edc96-c3fe-4d5b-a579-9246d6084eaa,2024-11-11,2024-11-13,2.0,Pediatrics,Hypertension,1581.0,11579.0,Kylie Baker,Other,64
+84ed8782-f979-468d-8bad-65e49cebfc99,2025-02-13,2025-02-14,1.0,Oncology,Hypertension,17396.0,464.0,Laurie Avery,Other,2
+2b337dac-0d8e-4ee6-8480-d0dfe7553f7c,2024-09-12,2024-10-01,19.0,Orthopedics,Cancer,13907.0,6909.0,Jeffrey Morris,Other,54
+349be3de-7dc1-4e7e-91bb-0112dd68041f,2025-03-13,2025-03-19,6.0,Oncology,Migraine,8305.0,4721.0,Tracey Valentine,Female,65
+d6beac78-4278-4bc7-a6c8-9b92ecf4aee5,2025-02-18,2025-03-05,15.0,Orthopedics,Cancer,5737.0,13723.0,Austin Jackson,Female,51
+bf931281-1ada-4339-8f76-1e1b99f60f48,2025-04-23,2025-05-13,20.0,Neurology,Diabetes,17443.0,13270.0,Karen Randall,Female,53
+d538a7dd-f9a4-4600-ba3d-2fe9c3d3eeb0,2025-02-27,2025-03-14,15.0,Orthopedics,Diabetes,13275.0,5226.0,Allison Hunt,Other,36
+1f2eb507-1653-41c6-b4d5-0945774f3eb7,2024-07-03,2024-07-05,2.0,Pediatrics,Diabetes,16744.0,5222.0,Kevin Fuller,Male,26
+8e7ee95e-c237-4368-8735-5040e7c57137,2024-06-29,2024-07-14,15.0,Neurology,Hypertension,13684.0,1746.0,Brooke Holden,Other,29
+b44eb674-bda4-496a-9b88-4e72e3d56b36,2025-04-04,2025-04-15,11.0,Cardiology,Migraine,3843.0,1018.0,Susan Watts,Other,21
+e47d807f-5764-4324-9fe1-25654d3c7662,2025-01-14,2025-01-29,15.0,Neurology,Fracture,14000.0,2897.0,Ashley Smith,Male,11
+d419e749-680a-4cdd-b54f-de93ca17296c,2025-04-16,2025-05-05,19.0,Orthopedics,Cancer,10162.0,6606.0,Darrell Moore MD,Other,40
+fe639037-548e-41a8-930f-9f8d1d6da7d2,2024-06-12,2024-07-01,19.0,Neurology,Hypertension,17464.0,5970.0,Cynthia Green,Other,11
+3069b8b6-b8c0-4955-a59c-baf38bf2c83b,2024-10-17,2024-10-18,1.0,Cardiology,Hypertension,15625.0,1631.0,Jason Curry,Male,36
+aa708975-cddc-4bba-aa90-86763a7c75b0,2025-05-14,2025-05-17,3.0,Orthopedics,Cancer,8630.0,8272.0,,Male,59
+96bc791b-6d3c-4678-9cff-fd3dbd1af204,2024-08-22,2024-09-11,20.0,Neurology,Migraine,2179.0,3445.0,Mark Griffin,Male,39
+df43d957-2840-4234-8905-cf2b5f825854,2025-05-11,2025-05-22,11.0,Neurology,Diabetes,4006.0,7773.0,,Other,54
+900bfdb9-caf9-4492-b622-72fc4febfd6d,2024-11-10,2024-11-17,7.0,Cardiology,Diabetes,13784.0,7049.0,Juan Morris,Male,55
+1bdc19d6-95f1-42a5-90c0-b901cd760aff,2025-04-14,2025-04-16,2.0,Neurology,Hypertension,7753.0,6982.0,Julie Kelly,Female,24
+8404cd29-6723-46ac-8d16-74fef573ac76,2024-10-16,2024-10-26,10.0,Neurology,Fracture,19628.0,2006.0,Amy Cook,Female,22
+1b388668-4f7a-41ef-ac92-c290e45da11f,2025-02-08,2025-02-12,4.0,Orthopedics,Migraine,9935.0,3186.0,Melissa Bradley,Other,69
+d0323df5-b5d1-4aa4-9a91-690d0c49c474,2024-12-30,2025-01-13,14.0,Orthopedics,Diabetes,11810.0,13603.0,Justin West,Female,56
+721eff09-0b6a-4db0-b877-b29b9186d483,2025-03-18,2025-04-06,19.0,Pediatrics,Cancer,13796.0,8252.0,Jessica Martin,Other,33
+3dd7d16b-0ac7-4290-a879-ad3fb89de3d1,2024-10-30,2024-11-12,13.0,Cardiology,Hypertension,19025.0,5850.0,Jasmine Smith,Other,36
+cf3cda8c-5077-423c-83ce-eea02d014943,2024-10-10,2024-10-25,15.0,Cardiology,Migraine,13745.0,12872.0,Brooke Horton,Male,20
+cdbe854c-9528-443c-ac54-3e556186a181,2024-10-09,2024-10-17,8.0,Oncology,Migraine,11651.0,10367.0,Crystal Peters,Male,83
+39c58398-db6a-4105-93ef-6a1c1aa33069,2024-09-24,2024-10-10,16.0,Pediatrics,Hypertension,10957.0,9005.0,Maria Robinson,Other,81
+5cca43d4-2c76-4812-a0c6-d2c3cd0d4755,2024-07-07,2024-07-23,16.0,Cardiology,Migraine,2979.0,1162.0,Michael Baker,Male,62
+ef7d8547-d7e9-46ea-9759-ffe0e3ad9e47,2024-10-07,2024-10-20,13.0,Pediatrics,Migraine,4952.0,2076.0,Kristie Jennings,Female,73
+532e28ea-f898-4f46-b784-f1676fe84b31,2025-03-18,2025-03-30,12.0,Oncology,Migraine,6381.0,1396.0,Eric Mccormick,Other,26
+ac3519a6-78ee-4dd9-b14b-39bc566eea31,2025-02-12,2025-02-28,16.0,Orthopedics,Migraine,14569.0,13642.0,Stacy Ballard,Male,66
+9581c1ab-4944-44d9-9140-29547faa1cf7,2024-06-09,2024-06-12,3.0,Neurology,Cancer,3349.0,6329.0,Karen Taylor,Female,73
+947b5556-d50b-4dbe-b88d-04e0d0bebc3d,2025-04-03,2025-04-14,11.0,Pediatrics,Hypertension,7890.0,7741.0,Richard Taylor,Other,73
+03716ed7-c526-4dbe-bc76-a2a2957bdd54,2024-12-04,2024-12-05,1.0,Neurology,Hypertension,12422.0,225.0,Charles Kennedy,Male,40
+c44515e8-d7eb-451a-be24-df3058d98041,2024-12-17,2024-12-18,1.0,Orthopedics,Cancer,2989.0,4732.0,Christopher Wall,Other,17
+86ac28ba-4b18-4acf-8fb4-7e78b91cb820,2024-06-25,2024-07-02,7.0,Cardiology,Diabetes,,6388.0,Cheryl Lynch,Other,1
+573664f5-ec60-408e-a383-661df1382b0e,2025-04-14,2025-04-17,3.0,Neurology,Diabetes,9707.0,3696.0,Holly Thomas,Other,89
+d21968bf-df24-4eac-894c-6dbfd598812c,2024-12-08,2024-12-15,7.0,Orthopedics,Fracture,10040.0,11575.0,Scott Brown,Female,61
+2167403f-b8be-470f-9acf-532bac4b0044,2024-07-27,2024-08-11,15.0,Orthopedics,Diabetes,16864.0,6268.0,Annette Mccall,Female,43
+87d7b77e-6150-4ce8-a6a7-d33a48c7cf77,2025-04-24,2025-05-04,10.0,Neurology,Hypertension,5111.0,9895.0,Gina Davis,Male,42
+d0f04979-ed72-40d8-8147-145c1800c91e,2024-08-16,2024-08-23,7.0,Pediatrics,Migraine,19723.0,7661.0,Michelle Murphy,Female,25
+18a98e01-a3df-4e3c-8e0b-f4bcf7a2c779,2024-10-31,2024-11-04,4.0,Cardiology,Cancer,6378.0,8358.0,Darrell Davis,Female,39
+2be38730-6a7b-4f26-9a03-8dfddb408695,2025-03-04,2025-03-14,10.0,Orthopedics,Hypertension,16847.0,332.0,Ryan Miller,Female,35
+3bb799ee-10e3-4de4-83d8-276e16ec07f3,2025-04-03,2025-04-18,15.0,Pediatrics,Hypertension,1351.0,10448.0,Patrick Garza,Other,3
+b6582eb2-22de-4720-a418-9f78244a9995,2024-12-09,2024-12-22,13.0,Neurology,Fracture,18571.0,9461.0,Christopher Love,Other,44
+2629a811-5611-4ed7-84ff-b026cb0165ed,2025-01-20,2025-02-02,13.0,Cardiology,Migraine,7333.0,10450.0,David Harris,Other,51
+85eb337a-76d2-452c-a762-f619c6d486dd,2025-02-13,2025-02-21,8.0,Pediatrics,Hypertension,12438.0,6471.0,Kenneth Howard,Male,12
+8bb0787e-1bd5-4b86-a461-540ce4404ec0,2024-10-13,2024-10-27,14.0,Cardiology,Diabetes,2927.0,4306.0,Carolyn Thornton,Female,19
+a34562aa-620e-4b4a-aca7-3796531fd802,2024-10-10,2024-10-29,19.0,Cardiology,Diabetes,4500.0,9785.0,,Other,44
+26dd2aae-e82d-4c58-b08b-d7fb809dbfe8,2024-10-20,2024-11-05,16.0,Cardiology,Fracture,5552.0,14469.0,Janet Boone,Other,59
+f80f0851-6b1d-4b8d-b04c-046cd39b57dd,2024-09-25,2024-09-26,1.0,Cardiology,Cancer,3238.0,13010.0,Kathleen Johnson,Male,49
+7633fa98-dbd8-4fed-8cca-22b3cf00b114,2024-09-03,2024-09-06,3.0,Orthopedics,Fracture,5887.0,8043.0,Briana Ayala,Other,61
+598f775b-a5fa-4a7f-808c-ad9ae4dbbca2,2024-12-11,2024-12-13,2.0,Pediatrics,Diabetes,8502.0,12299.0,,Male,17
+6eb6db99-b3c7-4a8d-808e-8e799b6710c5,2024-09-08,2024-09-15,7.0,Orthopedics,Cancer,6036.0,6991.0,Tricia Smith,Male,74
+19a13ef3-82ef-4b68-a43a-1c0d921b018e,2024-08-15,2024-08-17,2.0,Cardiology,Cancer,13979.0,6838.0,Jennifer Malone,Male,57
+7a7ee8cc-9f8e-4a2a-a0a5-099e0e69fc45,2024-12-08,2024-12-13,5.0,Cardiology,Migraine,4413.0,2572.0,,Female,55
+84e61a66-956e-423d-bc14-5ff1b38c2d39,2024-08-24,2024-09-13,20.0,Neurology,Cancer,17950.0,10952.0,,Male,47
+d77b5542-19cd-44c3-a60d-22e799b6d2c7,2024-11-13,2024-11-16,3.0,Cardiology,Hypertension,11136.0,13929.0,Timothy Davis,Female,12
+dfa2b98f-fe96-4665-89e0-bb51785f2355,2024-10-19,2024-10-20,1.0,Orthopedics,Migraine,6226.0,2839.0,Natasha Montgomery,Female,62
+37761967-c51b-44ff-9e78-dc58cbfb11cf,2024-10-24,2024-11-06,13.0,Oncology,Hypertension,3873.0,5501.0,Justin Moore Jr.,Male,80
+506d8f0e-bbbf-4a98-9af4-f35340f834bc,2025-04-28,2025-05-02,4.0,Neurology,Migraine,12661.0,1861.0,Mr. Daniel Steele,Other,88
+e6126971-eb61-4f0e-b4d6-ac1650b9a425,2024-10-16,2024-10-20,4.0,Cardiology,Diabetes,2582.0,11806.0,Linda Allen DDS,Female,83
+daf936b2-1f06-4cec-814d-86a52b29d321,2024-05-30,2024-06-07,8.0,Cardiology,Migraine,16781.0,10267.0,Nancy Smith,Male,8
+b3f1a455-f8ad-44dc-809d-c0be94b3bf28,2025-04-05,2025-04-22,17.0,Oncology,Cancer,15805.0,10654.0,Steven Wright,Female,21
+13edabd5-7e56-4840-9b26-e0c781d07540,2025-05-13,2025-05-24,11.0,Cardiology,Diabetes,10317.0,976.0,Mr. Gregory Bell,Male,81
+056c7e92-baea-4607-b8b8-33b5e360c595,2025-03-10,2025-03-19,9.0,Pediatrics,Migraine,11761.0,14377.0,Sandra Peterson,Male,87
+3cc61b54-b14c-4438-974a-702fddaa1dcc,2024-06-17,2024-06-30,13.0,Pediatrics,Migraine,917.0,3912.0,Jacqueline Noble,Female,80
+811b4003-6158-4d3b-877a-2f3768d3a40b,2024-12-15,2024-12-24,9.0,Cardiology,Hypertension,9308.0,11740.0,Melody Palmer,Female,70
+e3c5aea0-51de-4167-a4e0-be49ff98df5a,2025-04-16,2025-05-04,18.0,Pediatrics,Diabetes,3767.0,9604.0,Michael Martinez,Male,72
+07ac9bc9-1649-4d57-81a7-1af34ac01390,2025-01-17,2025-01-22,5.0,Pediatrics,Cancer,17709.0,1560.0,Margaret Graham,Male,25
+c9923f44-4f39-4f6a-b6ed-c7590f77409f,2025-03-28,2025-04-08,11.0,Neurology,Hypertension,6245.0,11001.0,Mr. David Parker MD,Female,82
+a9ad406a-ddfe-4db3-88a4-95f61c4f0c97,2024-05-31,2024-06-13,13.0,Pediatrics,Diabetes,11838.0,10616.0,Michael Stafford,Female,89
+a6f08dbd-1966-4ca1-8277-fc4b3c3db0bb,2024-09-17,2024-09-22,5.0,Neurology,Fracture,912.0,1833.0,Andrew Cervantes,Male,12
+85dd3b50-dbf2-49b5-b459-3969d543ca5f,2024-10-17,2024-10-21,4.0,Cardiology,Migraine,8043.0,1705.0,Katrina Franklin,Other,15
+32949b60-c945-43fb-98a2-62dfebd1c17c,2025-02-01,2025-02-11,10.0,Cardiology,Hypertension,8087.0,5722.0,Patrick Gould,Male,59
+0d39d390-70d4-4572-a5ac-a7813dcfd52f,2024-07-04,2024-07-05,1.0,Orthopedics,Migraine,1228.0,6867.0,Timothy Patel,Female,26
+25c55300-e435-4782-b076-eb4341f2fafd,2024-08-05,2024-08-09,4.0,Pediatrics,Hypertension,12157.0,10855.0,Jordan Lewis,Male,26
+d4a397a6-4b40-4325-9fa4-263eb15fb0a9,2024-09-03,2024-09-20,17.0,Neurology,Migraine,6488.0,11713.0,Michael Cook,Male,47
+f1011130-a96b-4c8d-8b39-2ddf45f381d4,2025-04-18,2025-04-20,2.0,Oncology,Fracture,19388.0,7086.0,Joseph Avila,Male,32
+6f7dbb29-9c45-424d-8505-e4e4e0adb0e4,2025-03-16,2025-04-01,16.0,Cardiology,Diabetes,3467.0,3617.0,Donna Barrett,Male,10
+312f9a9a-6c79-47de-9b7b-95d53f9d29d3,2024-06-23,2024-06-28,5.0,Neurology,Migraine,15027.0,10689.0,Justin Kelley,Male,16
+0aad0595-0c5f-412d-b7e3-0d470dc42c73,2024-09-04,2024-09-16,12.0,Cardiology,Cancer,19670.0,14018.0,Tracy Sanchez,Female,71
+6fe85c6c-ada9-496f-866c-2cc0da8ee1b3,2025-05-17,2025-06-04,18.0,Neurology,Fracture,16548.0,3835.0,Renee Fisher,Other,17
+99270b66-547a-472c-91ea-a939d2162b12,2024-08-09,2024-08-12,3.0,Cardiology,Migraine,18006.0,11162.0,Alyssa Harris,Male,23
+492d57ff-f44c-4046-a1bc-b6c11cf8c6ee,2024-05-29,2024-05-31,2.0,Oncology,Diabetes,18455.0,9452.0,David Pugh,Other,26
+42ac2d78-7d19-4b77-ad1c-087db2c0d2dc,2024-09-13,2024-09-17,4.0,Neurology,Fracture,,13146.0,Ann Mcdonald,Other,85
+1845353a-5232-4a69-b07b-c4db6e896796,2025-04-04,2025-04-18,14.0,Orthopedics,Diabetes,5604.0,8534.0,John Scott,Male,86
+2e3f9eaf-bfff-4678-9f4e-98763ff7f0fc,2025-03-18,2025-03-21,3.0,Cardiology,Diabetes,2643.0,2690.0,Ian Acosta,Other,7
+7ac2e7d1-ef9b-4a75-9210-b74510662b6f,2024-06-06,2024-06-11,5.0,Pediatrics,Migraine,7857.0,1163.0,Tina Waller,Male,14
+f8e79754-3ec8-4182-a2ba-472bebee015f,2024-08-12,2024-08-23,11.0,Neurology,Hypertension,12543.0,4424.0,John Anderson,Male,79
+86542626-d35f-4d17-9231-23a34aa5e574,2024-11-12,2024-11-23,11.0,Oncology,Migraine,3940.0,10887.0,Mary Harper,Female,7
+343ba027-bd52-4929-a438-95685eedb90e,2024-08-08,2024-08-20,12.0,Neurology,Migraine,6144.0,9211.0,Candice Davis,Other,9
+68a7070a-366f-487e-9201-4274655af68e,2024-08-13,2024-09-02,20.0,Oncology,Cancer,,5442.0,Kelly Butler,Female,48
+cdfd239a-0103-480c-8d4b-9476207c4566,2025-04-11,2025-04-30,19.0,Orthopedics,Fracture,15052.0,105.0,Eric Schroeder,Female,72
+1f031084-5740-4b81-a911-e3543df24f75,2024-10-13,2024-10-16,3.0,Oncology,Cancer,3414.0,7589.0,Robert Munoz,Other,59
+8e589352-7afb-487a-a168-c34fe2466e22,2025-02-05,2025-02-12,7.0,Pediatrics,Migraine,14084.0,8759.0,Shelly Hebert,Female,87
+61f3435e-6bd9-4982-b43e-bfa8a66c91e2,2024-10-23,2024-11-02,10.0,Pediatrics,Cancer,12644.0,14143.0,Todd Moody,Female,82
+ed9d3dec-e84e-43d0-8386-ffaa3aaadbf3,2024-08-14,2024-08-27,13.0,Cardiology,Fracture,14897.0,12462.0,Dr. Andrew Williams MD,Other,39
+536dc32c-ed35-4293-9d45-c31f7d59fbad,2024-10-08,2024-10-12,4.0,Cardiology,Fracture,9287.0,8295.0,Andrew Wright,Female,18
+e1ec3652-5314-4ae5-952c-8e2835f5b7dc,2025-04-17,2025-04-29,12.0,Cardiology,Fracture,14691.0,6066.0,Ashley Butler,Male,59
+acb84827-67ea-4cfb-9b7d-c81122e59efb,2025-05-02,2025-05-06,4.0,Oncology,Hypertension,1228.0,8937.0,,Female,17
+da5d78e1-bc38-4de9-b06e-0d4cc065dc99,2024-07-06,2024-07-10,4.0,Neurology,Cancer,18249.0,217.0,Bobby Friedman,Female,14
+0738ebb5-8128-4905-b9d7-9d2ca17dc64a,2024-09-19,2024-10-01,12.0,Orthopedics,Diabetes,1198.0,11220.0,Brandon Clay,Female,31
+76bb6947-6eed-43ea-8117-899eba4063a4,2024-06-22,2024-07-05,13.0,Pediatrics,Hypertension,7686.0,14017.0,Teresa Smith,Other,24
+652d1fdd-1945-4d91-a1ba-8415c0e80217,2025-05-13,2025-05-28,15.0,Orthopedics,Cancer,15012.0,2651.0,Laura Thompson,Female,60
+67113712-e85b-40ca-ac58-10c645a87ee5,2025-04-19,2025-04-23,4.0,Oncology,Fracture,14423.0,14409.0,Eric Lozano,Male,45
+205aaa5f-8c4a-4c69-8d07-6817d8e47f79,2025-04-13,2025-04-26,13.0,Neurology,Diabetes,17279.0,13334.0,Mr. Andre Beck,Other,3
+bcdca075-71cd-4bdf-a3fa-ef4262c1964f,2024-11-09,2024-11-23,14.0,Orthopedics,Hypertension,7900.0,5660.0,Brent Morales,Female,37
+fb473dd5-444f-4b71-9e2f-65a2f0019a5b,2024-05-26,2024-06-15,20.0,Pediatrics,Hypertension,4671.0,4389.0,Manuel Ruiz,Male,43
+91a895b0-1555-41d9-9923-efc96dcb0ae8,2024-07-07,2024-07-17,10.0,Cardiology,Migraine,4860.0,946.0,Ian Arnold,Male,40
+be9c4ec0-58fc-48f4-80bd-9a5bd2346b6e,2025-01-04,2025-01-10,6.0,Oncology,Migraine,3002.0,11054.0,Mary Miller,Male,55
+73f3bcee-e743-47e9-928f-f130a7e2aaea,2025-03-08,2025-03-12,4.0,Oncology,Hypertension,17601.0,13803.0,Emily Grant,Male,87
+e6206adb-cb3e-44aa-a6c5-e31ab561f61c,2024-12-31,2025-01-06,6.0,Orthopedics,Migraine,19666.0,13846.0,Russell Nichols,Male,39
+e6ae0c08-e9cf-4ed6-9c13-1031f233d50b,2024-11-17,2024-11-24,7.0,Oncology,Diabetes,5986.0,6416.0,Erin Holt,Other,15
+124b6c03-8853-4a6a-be7d-0974e55013fa,2025-04-04,2025-04-07,3.0,Neurology,Migraine,8835.0,14056.0,Jillian Russell,Other,4
+e2f14423-009f-44f1-adfd-187bf4f13a06,2024-08-28,2024-09-07,10.0,Oncology,Cancer,4991.0,6569.0,Angela Martinez,Other,86
+caeaa532-d67e-42f1-b8f4-428b279f0a69,2024-11-02,2024-11-11,9.0,Orthopedics,Diabetes,11630.0,13821.0,Gregory Burns,Other,25
+b2db28bc-33fd-4b0c-8fc8-50996661072f,2025-05-08,2025-05-20,12.0,Oncology,Migraine,8151.0,9433.0,Jerry Myers,Male,13
+64f95848-1172-47ab-a986-68db58339b1d,2024-08-19,2024-08-30,11.0,Oncology,Hypertension,1667.0,10102.0,Lori Bell,Female,82
+699c97d4-ff49-428c-94c5-fcaf8ef40990,2025-05-04,2025-05-17,,Cardiology,Cancer,1562.0,9015.0,Catherine Harvey,Female,33
+22512c9a-6f2b-493b-8045-1f18f3667c31,2024-11-15,2024-11-18,3.0,Cardiology,Hypertension,19040.0,324.0,Todd Hill,Female,16
+8467f5e0-2b60-4ab6-8bec-1b20fec07e21,2025-03-03,2025-03-17,14.0,Orthopedics,Fracture,11674.0,12919.0,Kathleen Henderson,Female,42
+eeadaca2-70ef-415c-a529-cc4b5c7de2e3,2024-11-02,2024-11-09,7.0,Pediatrics,Fracture,5229.0,4308.0,Benjamin Thompson,Other,66
+4a9c0795-83d3-4a80-a8a7-1c90a39676c2,2024-05-27,2024-06-15,19.0,Oncology,Fracture,9848.0,6383.0,Paul Saunders,Male,55
+7add0750-aedc-478e-94a4-fb262a2f3c2d,2024-10-25,2024-11-09,15.0,Pediatrics,Hypertension,5834.0,12946.0,Sierra Bryant,Male,42
+d0b817da-caf3-4a8f-a682-b7db0b8886c0,2025-04-11,2025-04-22,11.0,Oncology,Cancer,9424.0,2148.0,Robert Callahan,Female,34
+ac0ba931-350d-44dd-b476-0d50455a4b57,2024-12-08,2024-12-21,13.0,Oncology,Fracture,4830.0,6333.0,Lynn Smith,Female,30
+6349e28e-9182-432a-b7f0-8e557fc87dcb,2024-06-09,2024-06-10,1.0,Orthopedics,Fracture,7301.0,13041.0,Martin Barnes,Female,13
+79ec3c8a-6672-42bc-b19d-52ccd98bfe90,2024-10-26,2024-11-05,10.0,Pediatrics,Hypertension,,12707.0,Deborah Tran,Male,13
+d0caa80c-cdcc-46b5-91ce-9c6a1bf47aee,2024-12-29,2025-01-01,3.0,Cardiology,Hypertension,7231.0,9865.0,Sheila Frazier,Other,18
+ecee9226-06a6-4332-94d0-93461511df40,2024-12-28,2024-12-31,3.0,Cardiology,Cancer,15868.0,1928.0,Raymond Barrett,Male,32
